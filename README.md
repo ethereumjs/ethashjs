@@ -3,7 +3,7 @@
 [![NPM Package](https://img.shields.io/npm/v/ethashjs.svg)](https://www.npmjs.org/package/ethashjs)
 [![Actions Status](https://github.com/ethereumjs/ethashjs/workflows/Build/badge.svg)](https://github.com/ethereumjs/ethashjs/actions)
 [![Coverage Status](https://img.shields.io/coveralls/ethereumjs/ethashjs.svg)](https://coveralls.io/r/ethereumjs/ethashjs)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/ethereumjs-lib.svg)](https://gitter.im/ethereum/ethereumjs-lib)
+[![Discord][discord-badge]][discord-link]
 
 Implements [Ethash](https://github.com/ethereum/wiki/wiki/Ethash).
 
@@ -95,3 +95,6 @@ An `Object` containing:
 # LICENSE
 
 [MPL-2.0](https://www.mozilla.org/MPL/2.0/)
+
+[discord-badge]: https://img.shields.io/static/v1?logo=discord&label=discord&message=Join&color=blue
+[discord-link]: https://discord.gg/TNwARpR
